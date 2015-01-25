@@ -1,22 +1,22 @@
 body {
-	background-color: lightblue;
+	background-color: #F8EDDD;
 }
 #title {
 	margin-right: auto;
 	margin-left: auto;
-	background-color: lightblue;
+	background-color: #F8EDDD;
 }
 
 #title h1, h2 {
 	text-align: center;
 	font-family: roboto;
-	color: white;
+	color: #382B38;
 	width: 100%;
 	position: relative;
 }
 
 #alertes {
-	width: 20%;
+	width: 50%;
 	margin-right: auto;
 	margin-left: auto;
 }
@@ -28,21 +28,21 @@ body {
 }
 
 #alert1 {
-	height: 100px;
-	width: 100px;
-	background-color: blue;
+	height: 300px;
+	width: 300px;
+	background-color: #455D69;
 }
 
 #alert2 {
-	height: 100px;
-	width: 100px;
-	background-color: red;
+	height: 300px;
+	width: 300px;
+	background-color: #F06B4B;
 }
 
 #alert3 {
-	height: 100px;
-	width: 100px;
-	background-color: green;
+	height: 300px;
+	width: 300px;
+	background-color: #2E6E7F;
 }
 
 footer {
@@ -54,5 +54,5 @@ footer p {
 	text-align: center;
 	font-family: roboto;
 	font-size: 15px;
-	color: white;
+	color: #382B38;
 }
