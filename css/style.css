@@ -1,0 +1,46 @@
+body {
+	background-color: lightblue;
+}
+#title {
+	margin-right: auto;
+	margin-left: auto;
+	background-color: lightblue;
+}
+
+#title h1, h2 {
+	text-align: center;
+	font-family: roboto;
+	color: white;
+	width: 100%;
+	position: relative;
+}
+
+#alertes {
+	width: 20%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#alertes ul li {
+	list-style-type: none;
+	display: inline-block;
+	position: relative;
+}
+
+#alert1 {
+	height: 100px;
+	width: 100px;
+	background-color: blue;
+}
+
+#alert2 {
+	height: 100px;
+	width: 100px;
+	background-color: red;
+}
+
+#alert3 {
+	height: 100px;
+	width: 100px;
+	background-color: green;
+}
